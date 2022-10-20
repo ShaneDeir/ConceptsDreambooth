@@ -42,7 +42,7 @@ You're going to need at least $10(USD) to open a runpod account or $5(USD) to op
 
 Make sure you rent an instance that fulfills the VRAM requirements set out above and is set to:
 
-## On-Demand Pricing
+"On-Demand Pricing"
 
 That way your training cannot be interrupted. 
 
