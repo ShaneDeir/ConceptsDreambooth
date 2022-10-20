@@ -19,10 +19,10 @@ a singular resource for easy training of any artstyle.
 
 Included are several new contributions:
 
-Optimal Steps Formula
-Pre-Generated Artstyle Regularization Images
-Training Time Estimator (Very accurate)
-Cost to train calculator for Cloud Instances based on your rental price. 
+* Optimal Steps Formula
+* Pre-Generated Artstyle Regularization Images
+* Training Time Estimator (Very accurate)
+* Cost to train calculator for Cloud Instances based on your rental price. 
 
 # Setup
 
