@@ -28,9 +28,9 @@ Included are several new contributions:
 
 ## Requirements:
 
-At least 48GB of VRAM (The training uses 33.2GB, so if you have more than that, you're good')
-At least 100 training images.
-Some curiosity and excitement! 
+* At least 48GB of VRAM (The training uses 33.2GB, so if you have more than that, you're good)
+* At least 100 training images.
+* Some curiosity and excitement! 
 
 ## Getting started:
 
@@ -40,7 +40,7 @@ While there are many platforms to rent a GPU, we suggest vast.ai or runpod.io
 
 You're going to need at least $10(USD) to open a runpod account or $5(USD) to open a vast.ai account.
 
-Make sure you rent an instance that fulfills the VRAM requirements set out above and is set to:
+Make sure you rent an instance that fulfills the VRAM requirements set out above, has at least 60GB of disk storage, and is set to:
 
 "On-Demand Pricing"
 
@@ -54,7 +54,7 @@ On vast.ai:
     
     This loads your workspace.
     
-    Now on the right hand sided select "new", then Python 3 (ipykernel).  
+    Now on the right hand side select "new", then Python 3 (ipykernel).  
     
     This will load an empty Juptyer Notebook.
     
@@ -80,5 +80,5 @@ On vast.ai:
 
 This readme will be updated with a video guide once we finish version 2 of ConceptsDreambooth! That way the video will stay relevant. 
 
-Feel free to reach out me with any questions or suggestions! I'm happy to develop what you might find useful!
+Feel free to reach out to me with any questions or suggestions! I'm happy to develop what you might find useful!
     
